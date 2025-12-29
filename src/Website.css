@@ -1584,6 +1584,16 @@ header {
   .food-header h2 {
     font-size: 43px;
   }
+  .social .icon-text {
+    display: none;
+  }
+
+  .social-item {
+    display: flex;
+    align-items: center;
+    min-width: 0px;
+    flex-basis: calc(12% - 30px);
+}
 }
 
 @media (max-width: 553px) {
@@ -1619,6 +1629,8 @@ header {
   .book-now {
     font-size: 17px;
   }
+
+  
 }
 
 @media (max-width: 514px) {
