@@ -2001,4 +2001,8 @@ header {
   .feature-item {
     padding-top: 0px;
   }
+
+  .gallary-text {
+    top: -3%;
+  }
 }
