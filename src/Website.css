@@ -77,7 +77,7 @@ header {
   font-size: 16px;
 }
 
-.mobile-menu{
+.mobile-menu {
   padding: 0;
 }
 /* ====================Icon=================== */
@@ -1442,7 +1442,7 @@ header {
   .social {
     margin-left: 0px;
     justify-content: start;
-     padding-bottom: 30px;
+    padding-bottom: 30px;
   }
 
   .footer-sec .subscribe-form h3 {
@@ -1547,6 +1547,21 @@ header {
   .sec1 {
     padding-top: 50px;
     padding-bottom: 45px;
+  }
+  /* ================== */
+
+  .feature-item .item {
+    height: 261px;
+    padding: 30px 16px 0px 19px;
+    border: 1px solid #e69c00;
+  }
+
+  .btn-box a {
+    font-size: 16px;
+    padding: 8px 30px;
+  }
+  .menu h1 {
+    font-size: 27px;
   }
   /* ==================== Section 3  ==================== */
   .section-header h2 {
@@ -1985,19 +2000,5 @@ header {
 
   .feature-item {
     padding-top: 0px;
-  }
-
-  .feature-item .item {
-    height: 261px;
-    padding: 30px 16px 0px 19px;
-    border: 1px solid #e69c00;
-  }
-
-  .btn-box a {
-    font-size: 16px;
-    padding: 8px 30px;
-  }
-  .menu h1 {
-    font-size: 27px;
   }
 }
