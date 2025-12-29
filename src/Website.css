@@ -1689,10 +1689,6 @@ header {
     padding: 6px 24px;
     font-size: 13px;
   }
-
-  .menu-btn-col button {
-    font-size: 10px;
-  }
 }
 
 @media (max-width: 430px) {
@@ -1980,5 +1976,20 @@ header {
   .main .bite-text p {
     font-size: 13px;
     padding-top: 6px;
+  }
+
+  .feature-item {
+    padding-top: 0px;
+  }
+
+  .feature-item .item {
+    height: 261px;
+    padding: 30px 16px 0px 19px;
+    border: 1px solid #e69c00;
+  }
+
+  .btn-box a {
+    font-size: 16px;
+    padding: 8px 30px;
   }
 }
